@@ -1,0 +1,1218 @@
+{
+  "trigrams": {
+    "Qian": {
+      "cn": "乾",
+      "en": "Qian",
+      "el": "☰",
+      "elem_cn": "天/金",
+      "elem_en": "Heaven/Metal"
+    },
+    "Dui": {
+      "cn": "兌",
+      "en": "Dui",
+      "el": "☱",
+      "elem_cn": "泽/金",
+      "elem_en": "Lake/Metal"
+    },
+    "Li": {
+      "cn": "離",
+      "en": "Li",
+      "el": "☲",
+      "elem_cn": "火",
+      "elem_en": "Fire"
+    },
+    "Zhen": {
+      "cn": "震",
+      "en": "Zhen",
+      "el": "☳",
+      "elem_cn": "雷/木",
+      "elem_en": "Thunder/Wood"
+    },
+    "Xun": {
+      "cn": "巽",
+      "en": "Xun",
+      "el": "☴",
+      "elem_cn": "风/木",
+      "elem_en": "Wind/Wood"
+    },
+    "Kan": {
+      "cn": "坎",
+      "en": "Kan",
+      "el": "☵",
+      "elem_cn": "水",
+      "elem_en": "Water"
+    },
+    "Gen": {
+      "cn": "艮",
+      "en": "Gen",
+      "el": "☶",
+      "elem_cn": "山/土",
+      "elem_en": "Mountain/Earth"
+    },
+    "Kun": {
+      "cn": "坤",
+      "en": "Kun",
+      "el": "☷",
+      "elem_cn": "地/土",
+      "elem_en": "Earth/Earth"
+    },
+    "para1": "",
+    "para2": "适合先稳住基础，再逐步推进空间与生活安排，不宜操之过急。"
+  },
+  "hexagrams": {
+    "Qian-Qian": {
+      "number": 1,
+      "name_cn": "乾為天",
+      "name_en": "The Creative",
+      "symbol": "",
+      "tag_cn": "主势上升，贵在坚持与担当",
+      "tag_en": "Momentum & responsibility—win by consistency",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Qian-Dui": {
+      "number": 10,
+      "name_cn": "天澤履",
+      "name_en": "Treading",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Qian-Li": {
+      "number": 13,
+      "name_cn": "天火同人",
+      "name_en": "Fellowship",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Qian-Zhen": {
+      "number": 25,
+      "name_cn": "天雷無妄",
+      "name_en": "Innocence",
+      "symbol": "",
+      "tag_cn": "保持正直，少做投机",
+      "tag_en": "Stay straightforward—avoid gambles",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Qian-Xun": {
+      "number": 44,
+      "name_cn": "天風姤",
+      "name_en": "Coming to Meet",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Qian-Kan": {
+      "number": 6,
+      "name_cn": "天水訟",
+      "name_en": "Conflict",
+      "symbol": "",
+      "tag_cn": "争执与规则，先定边界",
+      "tag_en": "Disputes & rules—set boundaries",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Qian-Gen": {
+      "number": 33,
+      "name_cn": "天山遯",
+      "name_en": "Retreat",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Qian-Kun": {
+      "number": 12,
+      "name_cn": "天地否",
+      "name_en": "Standstill",
+      "symbol": "",
+      "tag_cn": "阻滞、沟通不畅、需要调整结构",
+      "tag_en": "Stuck signals—reduce friction, fix structure",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Dui-Qian": {
+      "number": 43,
+      "name_cn": "澤天夬",
+      "name_en": "Breakthrough",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Dui-Dui": {
+      "number": 58,
+      "name_cn": "兌為澤",
+      "name_en": "The Joyous",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Dui-Li": {
+      "number": 49,
+      "name_cn": "澤火革",
+      "name_en": "Revolution",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Dui-Zhen": {
+      "number": 17,
+      "name_cn": "澤雷隨",
+      "name_en": "Following",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Dui-Xun": {
+      "number": 28,
+      "name_cn": "澤風大過",
+      "name_en": "Great Exceeding",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Dui-Kan": {
+      "number": 47,
+      "name_cn": "澤水困",
+      "name_en": "Oppression",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Dui-Gen": {
+      "number": 31,
+      "name_cn": "澤山咸",
+      "name_en": "Influence",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Dui-Kun": {
+      "number": 45,
+      "name_cn": "澤地萃",
+      "name_en": "Gathering Together",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Li-Qian": {
+      "number": 14,
+      "name_cn": "火天大有",
+      "name_en": "Great Possession",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Li-Dui": {
+      "number": 38,
+      "name_cn": "火澤睽",
+      "name_en": "Opposition",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Li-Li": {
+      "number": 30,
+      "name_cn": "離為火",
+      "name_en": "The Clinging",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Li-Zhen": {
+      "number": 21,
+      "name_cn": "火雷噬嗑",
+      "name_en": "Biting Through",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Li-Xun": {
+      "number": 50,
+      "name_cn": "火風鼎",
+      "name_en": "The Cauldron",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Li-Kan": {
+      "number": 64,
+      "name_cn": "火水未濟",
+      "name_en": "Before Completion",
+      "symbol": "",
+      "tag_cn": "尚未到位，先把流程做完",
+      "tag_en": "Not yet finished—close the loops",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Li-Gen": {
+      "number": 56,
+      "name_cn": "火山旅",
+      "name_en": "The Wanderer",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Li-Kun": {
+      "number": 35,
+      "name_cn": "火地晉",
+      "name_en": "Progress",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Zhen-Qian": {
+      "number": 34,
+      "name_cn": "雷天大壯",
+      "name_en": "Great Power",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Zhen-Dui": {
+      "number": 54,
+      "name_cn": "雷澤歸妹",
+      "name_en": "The Marrying Maiden",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Zhen-Li": {
+      "number": 55,
+      "name_cn": "雷火豐",
+      "name_en": "Abundance",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Zhen-Zhen": {
+      "number": 51,
+      "name_cn": "震為雷",
+      "name_en": "The Arousing",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Zhen-Xun": {
+      "number": 32,
+      "name_cn": "雷風恒",
+      "name_en": "Duration",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Zhen-Kan": {
+      "number": 40,
+      "name_cn": "雷水解",
+      "name_en": "Deliverance",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Zhen-Gen": {
+      "number": 62,
+      "name_cn": "雷山小過",
+      "name_en": "Small Exceeding",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Zhen-Kun": {
+      "number": 16,
+      "name_cn": "雷地豫",
+      "name_en": "Enthusiasm",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Xun-Qian": {
+      "number": 9,
+      "name_cn": "風天小畜",
+      "name_en": "Small Taming",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Xun-Dui": {
+      "number": 57,
+      "name_cn": "巽為風",
+      "name_en": "The Gentle",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Xun-Li": {
+      "number": 37,
+      "name_cn": "風火家人",
+      "name_en": "The Family",
+      "symbol": "",
+      "tag_cn": "重视家序分工，家中有章",
+      "tag_en": "Roles & routines—order brings ease",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Xun-Zhen": {
+      "number": 42,
+      "name_cn": "風雷益",
+      "name_en": "Increase",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Xun-Xun": {
+      "number": 59,
+      "name_cn": "風水渙",
+      "name_en": "Dispersion",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Xun-Kan": {
+      "number": 61,
+      "name_cn": "風澤中孚",
+      "name_en": "Inner Truth",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Xun-Gen": {
+      "number": 53,
+      "name_cn": "風山漸",
+      "name_en": "Development",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Xun-Kun": {
+      "number": 20,
+      "name_cn": "風地觀",
+      "name_en": "Contemplation",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kan-Qian": {
+      "number": 5,
+      "name_cn": "水天需",
+      "name_en": "Waiting",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kan-Dui": {
+      "number": 60,
+      "name_cn": "水澤節",
+      "name_en": "Limitation",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kan-Li": {
+      "number": 63,
+      "name_cn": "水火既濟",
+      "name_en": "After Completion",
+      "symbol": "",
+      "tag_cn": "阶段完成，后续要防反复",
+      "tag_en": "Completed—watch for backslide",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kan-Zhen": {
+      "number": 3,
+      "name_cn": "水雷屯",
+      "name_en": "Difficulty at the Beginning",
+      "symbol": "",
+      "tag_cn": "起步困难，先稳基础再推进",
+      "tag_en": "Hard start—secure basics first",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kan-Xun": {
+      "number": 48,
+      "name_cn": "水風井",
+      "name_en": "The Well",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kan-Kan": {
+      "number": 29,
+      "name_cn": "坎為水",
+      "name_en": "The Abysmal",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kan-Gen": {
+      "number": 39,
+      "name_cn": "水山蹇",
+      "name_en": "Obstruction",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kan-Kun": {
+      "number": 8,
+      "name_cn": "水地比",
+      "name_en": "Holding Together",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Gen-Qian": {
+      "number": 26,
+      "name_cn": "山天大畜",
+      "name_en": "Great Taming",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Gen-Dui": {
+      "number": 41,
+      "name_cn": "山澤損",
+      "name_en": "Decrease",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Gen-Li": {
+      "number": 22,
+      "name_cn": "山火賁",
+      "name_en": "Grace",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Gen-Zhen": {
+      "number": 27,
+      "name_cn": "山雷頤",
+      "name_en": "Nourishment",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Gen-Xun": {
+      "number": 18,
+      "name_cn": "山風蠱",
+      "name_en": "Work on the Decayed",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Gen-Kan": {
+      "number": 4,
+      "name_cn": "山水蒙",
+      "name_en": "Youthful Folly",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Gen-Gen": {
+      "number": 52,
+      "name_cn": "艮為山",
+      "name_en": "Keeping Still",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Gen-Kun": {
+      "number": 23,
+      "name_cn": "山地剝",
+      "name_en": "Splitting Apart",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kun-Qian": {
+      "number": 11,
+      "name_cn": "地天泰",
+      "name_en": "Peace",
+      "symbol": "",
+      "tag_cn": "通达、和合、适合长期布局",
+      "tag_en": "Flow & harmony—good for long-term stability",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kun-Dui": {
+      "number": 19,
+      "name_cn": "地澤臨",
+      "name_en": "Approach",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kun-Li": {
+      "number": 36,
+      "name_cn": "地火明夷",
+      "name_en": "Darkening of the Light",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kun-Zhen": {
+      "number": 24,
+      "name_cn": "地雷復",
+      "name_en": "Return",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kun-Xun": {
+      "number": 46,
+      "name_cn": "地風升",
+      "name_en": "Pushing Upward",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kun-Kan": {
+      "number": 7,
+      "name_cn": "地水師",
+      "name_en": "The Army",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kun-Gen": {
+      "number": 15,
+      "name_cn": "地山謙",
+      "name_en": "Modesty",
+      "symbol": "",
+      "tag_cn": "空间趋势：看见卡点，做小调整",
+      "tag_en": "Spatial tendency: spot friction, make small fixes",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "Kun-Kun": {
+      "number": 2,
+      "name_cn": "坤為地",
+      "name_en": "The Receptive",
+      "symbol": "",
+      "tag_cn": "承载与整合，守成与照应",
+      "tag_en": "Support & integration—let the system carry you",
+      "bullets_cn": [
+        "适用：当作空间趋势提示，而不是吉凶断语。",
+        "看法：先看『谁住哪』再看『门/阳台纳气』，最后才谈体验感。",
+        "建议：先做低成本微调（动线、照明、收纳、干湿区），再决定大改动。"
+      ],
+      "bullets_en": [
+        "Use it as a spatial tendency hint—not a fate verdict.",
+        "Read order: who sleeps where → where air/people enter → lived experience.",
+        "Start with low-cost tweaks (flow, light, storage, wet/dry) before big renovations."
+      ]
+    },
+    "para1": "",
+    "para2": "适合先稳住基础，再逐步推进空间与生活安排，不宜操之过急。"
+  }
+}
